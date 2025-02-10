@@ -1,0 +1,23 @@
+# Ignore environment variables (Sensitive Data)
+.env
+
+# Ignore dependencies (You can install them with `npm install`)
+node_modules/
+package-lock.json
+
+# Ignore logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore build files (for Next.js, React, or compiled Node.js projects)
+dist/
+build/
+
+# Ignore system/macOS/Windows files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
