@@ -40,8 +40,8 @@ app.post("/send-email", async (req, res) => {
                 <p>We appreciate your interest. Please find some details below.</p>
                 <p>
                     📞 Contact us on WhatsApp: 
-                    <a href="https://wa.me/6366565999" target="_blank" style="color:green; font-weight:bold;">
-                        6366565999
+                    <a href="https://wa.me/9945264555" target="_blank" style="color:green; font-weight:bold;">
+                        9945264555
                     </a>
                 </p>
             `,
